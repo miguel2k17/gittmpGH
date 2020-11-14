@@ -13,3 +13,5 @@ sera posible regresar a este punto del estado del repositorio.
 ##Terceros cambios realizados al archivo
 Es recomendable crear un archivo 'readme.md' ya que este es el archivo 'index' que lee
 Github
+
+##Pie del documento
