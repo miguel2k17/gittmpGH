@@ -14,5 +14,5 @@ sera posible regresar a este punto del estado del repositorio.
 Es recomendable crear un archivo 'readme.md' ya que este es el archivo 'index' que lee
 Github
 
-##Pie del documento
-año 2020
+##Pegasus 2k14
+Esta linea fur agregada desde la cuenta colaboradora Pegasus2k14
