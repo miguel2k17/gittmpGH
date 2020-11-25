@@ -18,3 +18,7 @@ Github
 Esta linea fur agregada desde la cuenta colaboradora Pegasus2k14
 
 ##Tambien estamos usando Clientes graficos de GIT
+
+##Repositorios remotos disponibles
+* Github
+* Bitbucket
