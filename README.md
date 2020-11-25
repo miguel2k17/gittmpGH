@@ -22,3 +22,4 @@ Esta linea fur agregada desde la cuenta colaboradora Pegasus2k14
 ##Repositorios remotos disponibles
 * Github
 * Bitbucket
+*Gitlab
